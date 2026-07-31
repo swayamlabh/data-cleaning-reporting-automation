@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+.env
+data/raw/*
+!data/raw/.gitkeep
+data/cleaned/*
+!data/cleaned/.gitkeep
+reports/html/*
+!reports/html/.gitkeep
+reports/pdf/*
+!reports/pdf/.gitkeep
+reports/excel/*
+!reports/excel/.gitkeep
